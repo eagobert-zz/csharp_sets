@@ -1,0 +1,10 @@
+/Users/eagobert/workspace/csharp/exercises/sets/bin/Debug/netcoreapp2.0/sets.deps.json
+/Users/eagobert/workspace/csharp/exercises/sets/bin/Debug/netcoreapp2.0/sets.runtimeconfig.json
+/Users/eagobert/workspace/csharp/exercises/sets/bin/Debug/netcoreapp2.0/sets.runtimeconfig.dev.json
+/Users/eagobert/workspace/csharp/exercises/sets/bin/Debug/netcoreapp2.0/sets.dll
+/Users/eagobert/workspace/csharp/exercises/sets/bin/Debug/netcoreapp2.0/sets.pdb
+/Users/eagobert/workspace/csharp/exercises/sets/obj/Debug/netcoreapp2.0/sets.csproj.CoreCompileInputs.cache
+/Users/eagobert/workspace/csharp/exercises/sets/obj/Debug/netcoreapp2.0/sets.AssemblyInfoInputs.cache
+/Users/eagobert/workspace/csharp/exercises/sets/obj/Debug/netcoreapp2.0/sets.AssemblyInfo.cs
+/Users/eagobert/workspace/csharp/exercises/sets/obj/Debug/netcoreapp2.0/sets.dll
+/Users/eagobert/workspace/csharp/exercises/sets/obj/Debug/netcoreapp2.0/sets.pdb
